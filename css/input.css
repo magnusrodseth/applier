@@ -1,0 +1,8 @@
+@tailwind base;
+
+@layer base {
+  @apply font-sans bg-indigo-500;
+}
+
+@tailwind components;
+@tailwind utilities;

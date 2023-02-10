@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "applier"
+version = "0.1.0"
+description = ""
+authors = ["magnusrodseth <59113973+magnusrodseth@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+md2pdf = "^0.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
