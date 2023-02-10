@@ -30,14 +30,17 @@ cd applier
 # Ensure `just` is installed
 brew install just
 
-# Install dependencies
-just install
+# Ensure `poetry` is installed
+brew install poetry
+
+# Setup all necessary stuff
+just setup
 
 # Run the application
 just run <company_name> <outline>
 
 # See available commands
-just help
+just -l
 ```
 
 ## Styling the PDF 🎨
