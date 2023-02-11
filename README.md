@@ -1,5 +1,19 @@
 # Applier ⚙️
 
+## Table of Contents 📚
+
+<!--toc:start-->
+
+- [Table of Contents 📚](#table-of-contents-📚)
+- [Description ✏️](#description-️)
+- [Overview 📖](#overview-📖)
+- [Developer Information 🙋🏼‍♂️](#developer-information-🙋🏼‍️)
+- [Tech Stack 🛠](#tech-stack-🛠)
+- [Adding outline 📝](#adding-outline-📝)
+- [Running the application ✅](#running-the-application)
+- [Styling the PDF 🎨](#styling-the-pdf-🎨)
+<!--toc:end-->
+
 ## Description ✏️
 
 Applier is a small console application for generating styled PDFs from Markdown. This project uses it to streamline the process of creating job applications, but it can be used for any convertion from Markdown to PDF.
@@ -49,4 +63,4 @@ just -l
 
 ## Styling the PDF 🎨
 
-The styling of the PDF is done using Tailwind CSS. The `tailwind.config.js` file contains the configuration for the styling. The `src/input.css` file contains the styling for the HTML elements. Inpect the [`justfile`](/justfile) to see how the compile the CSS into a single file.
+The styling of the PDF is done using Tailwind CSS. The `tailwind.config.js` file contains the configuration for the styling. The `src/input.css` file contains the styling for the HTML elements. Inspect the [`justfile`](/justfile) to see how to compile the CSS into a single file.
