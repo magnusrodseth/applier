@@ -4,6 +4,10 @@
 
 Applier is a small console application for generating styled PDFs from Markdown. This project uses it to streamline the process of creating job applications, but it can be used for any convertion from Markdown to PDF.
 
+## Overview 📖
+
+![Overview](/assets/overview.svg)
+
 ## Developer Information 🙋🏼‍♂️
 
 Developed by Magnus Rødseth.
