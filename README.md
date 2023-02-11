@@ -6,7 +6,7 @@ Applier is a small console application for generating styled PDFs from Markdown.
 
 ## Overview 📖
 
-![Overview](/assets/overview.svg)
+![Overview](/assets/overview.png)
 
 ## Developer Information 🙋🏼‍♂️
 
