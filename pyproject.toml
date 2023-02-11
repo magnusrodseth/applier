@@ -1,6 +1,6 @@
 [tool.poetry]
 authors = ["magnusrodseth <59113973+magnusrodseth@users.noreply.github.com>"]
-description = ""
+description = "Streamlining the process of making beautiful cover letters for companies."
 name = "applier"
 readme = "README.md"
 version = "0.1.0"
