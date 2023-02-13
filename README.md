@@ -54,6 +54,9 @@ brew install poetry
 # Setup all necessary stuff
 just setup
 
+# Compile styling
+just style
+
 # Run the application
 just run <company_name> <outline>
 

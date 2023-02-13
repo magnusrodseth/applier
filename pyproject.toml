@@ -7,7 +7,7 @@ version = "0.1.0"
 
 [tool.poetry.dependencies]
 md2pdf = "^0.5"
-python = "^3.11"
+python = "^3.9"
 
 [build-system]
 build-backend = "poetry.core.masonry.api"
