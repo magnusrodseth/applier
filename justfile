@@ -17,7 +17,3 @@ install:
 # Setup all necessary stuff
 setup:
 	just venv style install
-
-# Run application
-run company outline:
-	python3 apply.py {{company}} {{outline}}

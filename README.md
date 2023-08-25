@@ -58,7 +58,7 @@ just setup
 just style
 
 # Run the application
-just run <company_name> <outline>
+python3 apply.py <company> <outline>
 
 # See available commands
 just -l
