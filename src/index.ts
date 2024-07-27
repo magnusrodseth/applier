@@ -2,9 +2,10 @@ import { Command } from "commander";
 import fs from "fs";
 import path from "path";
 import { generatePDF } from "./pdf";
-import { toSnakeCase, parsedOutline } from "./utils";
+import { toSnakeCase, parsedOutline, getDirName } from "./utils";
 
 const program = new Command();
+const __dirname = getDirName(import.meta.url);
 
 program
   .version("1.0.0")
