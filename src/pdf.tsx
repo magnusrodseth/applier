@@ -46,7 +46,8 @@ registerGeorgiaFonts();
 // Define the necessary Tailwind CSS styles directly
 const styles = StyleSheet.create({
   body: {
-    padding: 24,
+    margin: 0,
+    padding: 32,
     fontFamily: "Georgia",
     color: "black",
     backgroundColor: "white",
