@@ -1,0 +1,28 @@
+{
+  "name": "my-package",
+  "license": "MIT",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "apply": "tsx src/apply.ts apply"
+  },
+  "devDependencies": {
+    "tsx": "^4.16.2",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@inquirer/select": "^2.4.2",
+    "@react-pdf/renderer": "^3.4.4",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.12",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "date-fns": "^3.6.0",
+    "inquirer": "^10.1.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-pdf-tailwind": "^2.3.0"
+  }
+}
