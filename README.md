@@ -41,5 +41,5 @@ Ensure you have [`pnpm`](https://pnpm.io/) installed. Then run the following com
 cd applier
 
 # Run the script
-pnpm apply <path-to-outline> <company-name>
+pnpm apply <company-name> <path-to-outline>
 ```
